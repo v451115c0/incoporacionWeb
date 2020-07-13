@@ -1,0 +1,90 @@
+[26-Aug-2018 18:06:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '18082617563430-pruebas@pruebas.com' for key 'PRIMARY'' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/save-form.php:101
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/save-form.php(101): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/save-form.php on line 101
+[30-Aug-2018 20:15:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/return-incorporate.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/return-incorporate.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/return-incorporate.php on line 10
+[04-Sep-2018 01:36:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[17-Nov-2018 21:30:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[25-Feb-2019 19:01:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:28:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:28:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:28:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:28:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:30:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:31:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:31:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:31:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:31:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[10-May-2019 20:31:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[03-Jun-2019 02:22:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'correo' in 'where clause'' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/return-incorporate.php:50
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/return-incorporate.php(50): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/return-incorporate.php on line 50
+[13-Aug-2019 16:14:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10
+[16-Aug-2019 22:41:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php:10
+Stack trace:
+#0 /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/incorporacion-web/custom/querys/validate-email.php on line 10

@@ -1,0 +1,167 @@
+/*logo*/
+#logo_home h1 a {
+	width: 100%;
+    background-image: url(../img/logos/logo.png);
+    background-size: auto;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	#logo_home h1 a {
+		width: 100%;
+		background-image: url(../img/logos/logo_2x.png);
+		background-size: auto;
+	}
+}
+/*logo*/
+
+.format-ul{
+	list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.format-ul li{
+    padding: 2px 0;
+}
+
+#left_form {
+    background-color: #14B96D;
+}
+
+input.form-control#birthday,
+input.form-control#check_out {
+	background: #fff url(../../img/calendar.svg) no-repeat right center;
+}
+
+#bottom-wizard {
+    position: relative;
+}
+
+button.forward, button.submit {
+    background: #14B96D;
+}
+
+.forward:hover {
+    background: #0F8852;
+}
+
+#social ul li a:hover {
+    color: #14B96D !important;
+}
+
+.cd-primary-nav li {
+    text-transform: initial;
+}
+
+.styled-select {
+    margin-bottom: 25px;
+}
+
+.format-radio{
+	padding: 0;
+}
+
+#left_form {
+    min-height: 100%;
+}
+
+.fileuploader-input-button {
+    background: #14B96D;
+}
+
+.fileuploader-input-button:hover {
+    background: #0F8852;
+}
+
+.format-check{
+    margin-bottom: 0;
+}
+
+.margin-sponsor{
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: initial;
+}
+
+a:hover {
+    color: #0F8852;
+}
+
+a {
+    color: #14B96D;
+}
+
+a.btn_1, .btn_1 {
+    background: #0F8852;
+}
+
+.backward:hover{
+    background: #0F8852;
+}
+
+#left_form {
+    padding: 40px 50px 30px 50px;
+}
+
+/*ALERTA*/
+.alert[data-notify="container"] {
+    z-index: 99999 !important;
+    border: 1px solid white;
+}
+/*ALERTA*/
+
+button[disabled] {
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.format-p-ul{
+    margin-left: -40px;
+}
+
+#left_form h2 {
+    font-size: 30px;
+}
+
+.format-margin-bottom{
+    margin-bottom: 2px;
+}
+
+@media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 2), not all
+{
+    #logo_home h1 a {
+        background-size: cover;
+    }
+}
+
+#social {
+    margin: 0 40px 0 0;
+}
+
+#form_container {
+    margin: 20px auto 30px;
+}
+
+#logo_home h1 a {
+    height: 100%;
+}
+
+.sweet-alert h2 {
+    color: #333;
+    font-size: 25px;
+}
+
+.sweet-alert p {
+    padding-bottom: 20px !important;
+    text-align: justify !important;
+    font-size: 18px !important;
+    line-height: 1.5 !important;
+    font-family: "Roboto Condensed", Arial, sans-serif !important;
+    color: #555;
+}
